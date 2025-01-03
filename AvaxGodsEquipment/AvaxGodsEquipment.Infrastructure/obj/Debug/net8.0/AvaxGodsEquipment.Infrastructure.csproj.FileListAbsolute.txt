@@ -1,0 +1,17 @@
+C:\Users\ASUS\Desktop\AvaxGods-main\AvaxGodsEquipment\AvaxGodsEquipment.Infrastructure\bin\Debug\net8.0\AvaxGodsEquipment.Infrastructure.deps.json
+C:\Users\ASUS\Desktop\AvaxGods-main\AvaxGodsEquipment\AvaxGodsEquipment.Infrastructure\bin\Debug\net8.0\AvaxGodsEquipment.Infrastructure.runtimeconfig.json
+C:\Users\ASUS\Desktop\AvaxGods-main\AvaxGodsEquipment\AvaxGodsEquipment.Infrastructure\bin\Debug\net8.0\AvaxGodsEquipment.Infrastructure.dll
+C:\Users\ASUS\Desktop\AvaxGods-main\AvaxGodsEquipment\AvaxGodsEquipment.Infrastructure\bin\Debug\net8.0\AvaxGodsEquipment.Infrastructure.pdb
+C:\Users\ASUS\Desktop\AvaxGods-main\AvaxGodsEquipment\AvaxGodsEquipment.Infrastructure\bin\Debug\net8.0\AvaxGodsEquipment.Core.dll
+C:\Users\ASUS\Desktop\AvaxGods-main\AvaxGodsEquipment\AvaxGodsEquipment.Infrastructure\bin\Debug\net8.0\AvaxGodsEquipment.Core.pdb
+C:\Users\ASUS\Desktop\AvaxGods-main\AvaxGodsEquipment\AvaxGodsEquipment.Infrastructure\obj\Debug\net8.0\AvaxGodsEquipment.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\ASUS\Desktop\AvaxGods-main\AvaxGodsEquipment\AvaxGodsEquipment.Infrastructure\obj\Debug\net8.0\AvaxGodsEquipment.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\Desktop\AvaxGods-main\AvaxGodsEquipment\AvaxGodsEquipment.Infrastructure\obj\Debug\net8.0\AvaxGodsEquipment.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\ASUS\Desktop\AvaxGods-main\AvaxGodsEquipment\AvaxGodsEquipment.Infrastructure\obj\Debug\net8.0\AvaxGodsEquipment.Infrastructure.AssemblyInfo.cs
+C:\Users\ASUS\Desktop\AvaxGods-main\AvaxGodsEquipment\AvaxGodsEquipment.Infrastructure\obj\Debug\net8.0\AvaxGodsEquipment.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Desktop\AvaxGods-main\AvaxGodsEquipment\AvaxGodsEquipment.Infrastructure\obj\Debug\net8.0\AvaxGods.6711CD9D.Up2Date
+C:\Users\ASUS\Desktop\AvaxGods-main\AvaxGodsEquipment\AvaxGodsEquipment.Infrastructure\obj\Debug\net8.0\AvaxGodsEquipment.Infrastructure.dll
+C:\Users\ASUS\Desktop\AvaxGods-main\AvaxGodsEquipment\AvaxGodsEquipment.Infrastructure\obj\Debug\net8.0\refint\AvaxGodsEquipment.Infrastructure.dll
+C:\Users\ASUS\Desktop\AvaxGods-main\AvaxGodsEquipment\AvaxGodsEquipment.Infrastructure\obj\Debug\net8.0\AvaxGodsEquipment.Infrastructure.pdb
+C:\Users\ASUS\Desktop\AvaxGods-main\AvaxGodsEquipment\AvaxGodsEquipment.Infrastructure\obj\Debug\net8.0\AvaxGodsEquipment.Infrastructure.genruntimeconfig.cache
+C:\Users\ASUS\Desktop\AvaxGods-main\AvaxGodsEquipment\AvaxGodsEquipment.Infrastructure\obj\Debug\net8.0\ref\AvaxGodsEquipment.Infrastructure.dll

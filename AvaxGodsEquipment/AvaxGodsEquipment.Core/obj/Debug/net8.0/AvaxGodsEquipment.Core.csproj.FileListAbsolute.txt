@@ -1,0 +1,11 @@
+C:\Users\ASUS\Desktop\AvaxGods-main\AvaxGodsEquipment\AvaxGodsEquipment.Core\bin\Debug\net8.0\AvaxGodsEquipment.Core.deps.json
+C:\Users\ASUS\Desktop\AvaxGods-main\AvaxGodsEquipment\AvaxGodsEquipment.Core\bin\Debug\net8.0\AvaxGodsEquipment.Core.dll
+C:\Users\ASUS\Desktop\AvaxGods-main\AvaxGodsEquipment\AvaxGodsEquipment.Core\bin\Debug\net8.0\AvaxGodsEquipment.Core.pdb
+C:\Users\ASUS\Desktop\AvaxGods-main\AvaxGodsEquipment\AvaxGodsEquipment.Core\obj\Debug\net8.0\AvaxGodsEquipment.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\Desktop\AvaxGods-main\AvaxGodsEquipment\AvaxGodsEquipment.Core\obj\Debug\net8.0\AvaxGodsEquipment.Core.AssemblyInfoInputs.cache
+C:\Users\ASUS\Desktop\AvaxGods-main\AvaxGodsEquipment\AvaxGodsEquipment.Core\obj\Debug\net8.0\AvaxGodsEquipment.Core.AssemblyInfo.cs
+C:\Users\ASUS\Desktop\AvaxGods-main\AvaxGodsEquipment\AvaxGodsEquipment.Core\obj\Debug\net8.0\AvaxGodsEquipment.Core.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Desktop\AvaxGods-main\AvaxGodsEquipment\AvaxGodsEquipment.Core\obj\Debug\net8.0\AvaxGodsEquipment.Core.dll
+C:\Users\ASUS\Desktop\AvaxGods-main\AvaxGodsEquipment\AvaxGodsEquipment.Core\obj\Debug\net8.0\refint\AvaxGodsEquipment.Core.dll
+C:\Users\ASUS\Desktop\AvaxGods-main\AvaxGodsEquipment\AvaxGodsEquipment.Core\obj\Debug\net8.0\AvaxGodsEquipment.Core.pdb
+C:\Users\ASUS\Desktop\AvaxGods-main\AvaxGodsEquipment\AvaxGodsEquipment.Core\obj\Debug\net8.0\ref\AvaxGodsEquipment.Core.dll
